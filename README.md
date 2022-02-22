@@ -1,2 +1,5 @@
-# bangkit-bfaa-1
-Belajar Fundamental Aplikasi Android Dicoding Submission 1 - Aplikasi Github User
+# Belajar Fundamental Aplikasi Android Dicoding Submission 1 - Aplikasi Github User
+
+:star: :star: :star: :star: :star: 
+<br />
+Submission Rating (5/5)
